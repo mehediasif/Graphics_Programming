@@ -1,0 +1,14 @@
+﻿  GlWindow.cpp
+C:\Users\hasan\Documents\Visual Studio 2022\Projects\openGlApp\GlWindow.h(15,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\hasan\Documents\Visual Studio 2022\Projects\openGlApp\GlWindow.h(16,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\hasan\Documents\Visual Studio 2022\Projects\openGlApp\GlWindow.cpp(33,39): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\hasan\Documents\Visual Studio 2022\Projects\openGlApp\GlWindow.cpp(33,32): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+  main.cpp
+C:\Users\hasan\Documents\Visual Studio 2022\Projects\openGlApp\GlWindow.h(15,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\hasan\Documents\Visual Studio 2022\Projects\openGlApp\GlWindow.h(16,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\hasan\Documents\Visual Studio 2022\Projects\openGlApp\main.cpp(103,13): error C2374: 'model': redefinition; multiple initialization
+C:\Users\hasan\Documents\Visual Studio 2022\Projects\openGlApp\main.cpp(94): message : see declaration of 'model'
+  Mesh.cpp
+  shader.cpp
+  Generating Code...
+C:\Users\hasan\Documents\Visual Studio 2022\Projects\openGlApp\GlWindow.cpp(61): warning C4715: 'GlWindow::initialise': not all control paths return a value
